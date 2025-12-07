@@ -37,7 +37,8 @@ Two supervised learning algorithms were benchmarked on the selected features:
 
 ## Repository Structure
 * `analysis_notebook.ipynb`: Jupyter Notebook containing the full pipeline (Data loading, Lasso selection, Model evaluation).
-* `data/`: Dataset used for the analysis.
+* `tissue_data.zip`: Compressed dataset containing the protein expression profiles.
 
 ## References
 * Methodology inspired by the Human Protein Atlas and advanced statistical learning courses (University of Strasbourg, Master Statistics).
+
