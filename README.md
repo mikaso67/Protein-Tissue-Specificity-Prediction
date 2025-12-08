@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on the classification of human tissue types based on transcriptomic protein expression profiles. Using data derived from the **Human Protein Atlas**, the goal is to predict the tissue origin of a sample based on its molecular signature.
 
-This work demonstrates the application of **High-Dimensional Statistics** and **Machine Learning** to bioinformatics, addressing the "$p \gg n$" problem (feature space significantly larger than sample size) typical in omics data.
+This work demonstrates the application of **High-Dimensional Statistics** and **Machine Learning** to bioinformatics, addressing the "p >> n" problem (feature space significantly larger than sample size) typical in omics data.
 
 ## Key Results
 * **Best Model Accuracy:** **99.15%** (Support Vector Machine)
@@ -41,4 +41,5 @@ Two supervised learning algorithms were benchmarked on the selected features:
 
 ## References
 * Methodology inspired by the Human Protein Atlas and advanced statistical learning courses (University of Strasbourg, Master Statistics).
+
 
